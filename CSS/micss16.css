@@ -1,0 +1,19 @@
+
+.a{
+    table-layout: auto;
+    border: 1px solid black;
+}
+.b{
+    table-layout: auto;
+    width: 100%;
+    border: 1px solid black;
+}
+.c{
+    table-layout: fixed;
+    width: 200px;
+    border: 1px solid black;
+}
+/*table{
+    text-align: center;
+    border: 1px solid black;
+}*/

@@ -1,0 +1,20 @@
+.val1{
+    line: height 60px;
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: consolas,'Courier New', Courier, monospace;
+    text-align: center;
+    vertical-align: inherit;
+    margin:10px 1;
+    
+}
+.val2{
+    background-color:rgb(255,99,71) ;
+}
+.val3{
+    background-color: #ff6447;
+}
+.val4{
+    background-color:hsl(10, 100%, 64%);
+}
